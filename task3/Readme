@@ -1,0 +1,11 @@
+
+Create a simple web application using any Python web framework (e.g., Flask, Django). The application should have the following features: 
+
+• A registration page that allows users to sign up with their name, email, and password.
+• A login page that authenticates users based on their email and password. A dashboard page accessible only to authenticated users, displaying a welcome message with the user's name. 
+
+Choose one of the following tasks based on your area of interest: 
+
+    a) Implement a REST API using Django or FastAPI that allows users to create, update, and delete blog posts. Each blog post should have a title, content, and an associated author. 
+
+    b) Implement a GraphQL API using any Python framework of your choice that allows users to query and retrieve information about movies. The API should support queries such as retrieving a list of movies, searching for movies by title, and retrieving movie details.
